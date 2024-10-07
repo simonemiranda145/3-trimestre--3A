@@ -15,3 +15,7 @@
         height: 100vh;
         margin: 0;
     }
+    header {
+        background-color: var(--primary-color);
+        text-align: center;
+        }
