@@ -18,6 +18,7 @@
     header {
         background-color: var(--primary-color);
         text-align: center;
+        padding: 1px;
         }
     h1     {
             font-size: 2rem;
@@ -28,3 +29,5 @@
             text-decoration: none;
             color: var(--bg-color);
             margin: 0rem 2rem 3rem 0rem;
+            font-size: 12rem;
+            
