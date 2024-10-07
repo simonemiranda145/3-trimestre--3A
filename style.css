@@ -26,7 +26,12 @@
             color: var(--bg-color);
             font-weight: 700;
         }     
-    nav a:hover{
+        nav {
+            display: flex;
+            justify-content: center;
+            font-weight: 400;
+            }
+        nav a:hover{
             text-decoration: none;
             color: var(--bg-color);
             margin: 0rem 2rem 3rem 0rem;
